@@ -1,4 +1,4 @@
-const publicRoute = (any: any) => {
+const publicRoute = () => {
     return(
         <h1>
             This is a public Route.
